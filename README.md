@@ -23,7 +23,7 @@ I am an **Aspiring Cybersecurity Professional** and a **Computer Science and Eng
 ### 🔗 How to Reach Me
 - 📧 Email: [swathivarre03@gmail.com](mailto:swathivarre03@gmail.com)  
 - 🌐 LinkedIn: [swathi-varre-53801a336](https://linkedin.com/in/swathi-varre-53801a336/)  
-- 💻 GitHub: [github.com/swathivarre](https://github.com/swathivarre)
+- 💻 GitHub:=([https://github.com/swathivarre](https://github.com/swathi-45/swathi-45))
 
 ---
 
