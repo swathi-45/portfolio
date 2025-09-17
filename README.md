@@ -34,16 +34,16 @@ Currently, I’m focusing on **practical cybersecurity labs, CTFs, and real-worl
 ---
 
 ### 🛠️ Technologies & Tools  
-
 #### 👩‍💻 Programming Languages  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> [C](https://www.cprogramming.com/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> [C++](https://www.w3schools.com/cpp/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> [Python](https://www.python.org/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> [Java](https://www.java.com/)
 
-#### 🌐 Web Development  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+#### 🌐 Web Technologies  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> [HTML5](https://www.w3.org/html/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> [CSS3](https://www.w3schools.com/css/)
+
 
 #### 🔐 Cybersecurity Tools  
 - Kali Linux | Burp Suite | Wireshark | Metasploit  
