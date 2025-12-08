@@ -29,7 +29,7 @@ Currently, I’m focusing on **practical cybersecurity labs, CTFs, and real-worl
 - 📧 Email: [swathivarre03@gmail.com](mailto:swathivarre03@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/swathi-varre-53801a336](https://linkedin.com/in/swathi-varre-53801a336/)  
 - 💻 GitHub: [github.com/swathi-45](https://github.com/swathi-45)  
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/12vNoNN3fOfhutcgteVKzBrofoeCtImP1/view?usp=drive_link)  
+- 📄 [Resume (PDF)](https://drive.google.com/file/d/1k3fRCDqEhVl7-j975a4x9O3_rY1xbmnr/view?usp=sharing)
 
 ---
 
