@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Professional Summary
 
-Certified Ethical Hacker (CEH v12) with hands-on experience in security labs, attack simulations, and defensive log analysis. Strong foundation in networking, Linux systems, and web application security. Focused on SOC operations, threat detection, incident investigation, and automation of security workflows.
+Certified Ethical Hacker (CEH v13) with hands-on experience in security labs, attack simulations, and defensive log analysis. Strong foundation in networking, Linux systems, and web application security. Focused on SOC operations, threat detection, incident investigation, and automation of security workflows.
 
 Actively building practical experience through lab simulations, CTF challenges, and security-focused development projects.
 
