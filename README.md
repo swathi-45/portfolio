@@ -1,30 +1,109 @@
-# 🛡️ Swathi Varre, CEH v12
-**Associate SOC Analyst | Cybersecurity Researcher | B.Tech CSE 2025**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/swathi-varre)
-[![Certification](https://img.shields.io/badge/Certification-CEH--v12-green?style=flat)](https://eccouncil.org)
-
-### 👨‍💻 Professional Profile
-I am a **Certified Ethical Hacker** with a deep focus on **Network Forensics** and **Automated Threat Detection**. I bridge the gap between software development and security operations, utilizing Machine Learning to identify sophisticated phishing vectors and performing deep-packet analysis to secure network perimeters.
-
-- 🔭 **Current Focus:** Building automated SOC playbooks and refining IDS signatures.
-- ⚡ **Key Achievement:** Developed an ML-based phishing detector with **92% F1-Score**.
-- 🛠️ **Environment:** Daily driver is **Kali Linux**; experienced in **SIEM** workflows.
+# 🛡 Swathi Varre
+**SOC Analyst | CEH v13 | Threat Detection | Incident Investigation | Security Automation**
 
 ---
 
-### 🛠️ Technical Arsenal
+## 👩‍💻 Professional Summary
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Security Ops** | Wireshark, Nmap, Nessus, Metasploit, Burp Suite |
-| **Threat Intel** | VirusTotal, Cisco Talos, IBM X-Force, MX Toolbox |
-| **Data Science** | Python (Scikit-learn, LightGBM, SVM), NumPy, Pandas |
-| **Development** | C, C++, Java, Bash Scripting, Linux CLI |
+Certified Ethical Hacker (CEH v12) with hands-on experience in security labs, attack simulations, and defensive log analysis. Strong foundation in networking, Linux systems, and web application security. Focused on SOC operations, threat detection, incident investigation, and automation of security workflows.
+
+Actively building practical experience through lab simulations, CTF challenges, and security-focused development projects.
 
 ---
 
-### 📂 Featured Cybersecurity Labs
-* **[ML-Phishing-Detection](link):** Machine Learning model for real-time URL analysis.
-* **[Network-Forensics-Reports](link):** A collection of PCAP analysis and Incident Response mockups.
-* **[CTF-Writeups](link):** Documented solutions for TryHackMe and HackTheBox challenges.
+## 🔍 Security Experience & Practical Work
+
+### 🛡 Web Application Security
+- Performed vulnerability assessments using Burp Suite, Nmap, and SQLmap
+- Identified SQL Injection and XSS vulnerabilities in controlled lab environments
+- Conducted directory brute-force and authentication testing exercises
+
+### 🌐 Network Analysis & Forensics
+- Analyzed PCAP files using Wireshark to detect suspicious traffic patterns
+- Performed service enumeration and port scanning using Nmap
+- Investigated anomalous DNS and HTTP traffic behavior
+
+### ⚔️ Attack Simulation & Exploitation
+- Simulated brute-force attacks using Hydra
+- Practiced Linux privilege escalation techniques
+- Conducted exploitation exercises using Metasploit Framework
+
+### 🧠 SOC & Incident Investigation Practice
+- Analyzed Windows Event Logs for failed login patterns
+- Identified brute-force attempts through log correlation
+- Mapped attack techniques to MITRE ATT&CK framework
+- Documented CTF investigations (Web, Forensics, Privilege Escalation)
+
+---
+
+## 🧪 Featured Security Repositories
+
+### 🔹 ML-Phishing-Detection
+Machine Learning model using SVM & LightGBM for phishing URL detection.
+- Feature engineering on URL characteristics
+- Achieved 92% F1-score
+- Model evaluation and performance tuning
+
+### 🔹 Network-Forensics-Reports
+Collection of:
+- PCAP analysis reports
+- Incident investigation summaries
+- Traffic pattern documentation
+
+### 🔹 CTF-Writeups
+Structured writeups including:
+- Attack methodology
+- Tools used
+- Root cause analysis
+- Remediation insights
+
+---
+
+## 🛠 Technical Skillset
+
+### Operating Systems
+- Kali Linux
+- Ubuntu
+- Windows
+
+### Security Tools
+- Nmap
+- Burp Suite
+- Wireshark
+- Metasploit
+- SQLmap
+- Hydra
+
+### Threat Intelligence & Analysis
+- VirusTotal
+- Cisco Talos
+- IBM X-Force
+- MXToolbox
+
+### Programming & Automation
+- Python (security scripting, automation)
+- C / C++
+- Java
+- Bash scripting
+
+---
+
+## 📜 Certification
+- Certified Ethical Hacker (CEH v13)[https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing](url) – EC-Council
+
+---
+
+## 📈 Current Focus
+- Advanced log analysis
+- Detection engineering fundamentals
+- SIEM exposure (Splunk / ELK)
+- Threat hunting techniques
+- Security automation scripting
+
+---
+
+## 📫 Connect
+- 📧 Email: swathivarre03@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/swathi-varre-53801a336
+- 💻 GitHub: https://github.com/swathi-45/portfolio
+
