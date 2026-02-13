@@ -88,7 +88,7 @@ Structured writeups including:
 ---
 
 ## 📜 Certification
-- Certified Ethical Hacker [(CEH v13)]((https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing)) – EC-Council
+- Certified Ethical Hacker [(CEH v13)](https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing) – EC-Council
 
 ---
 
