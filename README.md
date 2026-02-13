@@ -102,7 +102,7 @@ Structured writeups including:
 ---
 
 ## 📫 Connect
-- 📧 Email: swathivarre03@gmail.com
-- 🔗 LinkedIn:(https://www.linkedin.com/in/swathi-varre-53801a336)
-- 💻 GitHub:(https://github.com/swathi-45/portfolio)
+- 📧 [Email](swathivarre03@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swathi-varre-53801a336)
+- 💻 [GitHub](https://github.com/swathi-45/portfolio)
 
