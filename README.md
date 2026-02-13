@@ -1,79 +1,30 @@
-<h1 align="center">Hi 👋, I'm Varre Swathi</h1>
-<h3 align="center">CEH Certified | Aspiring Cybersecurity Professional | CSE (2025) | Ethical Hacking & SOC Enthusiast | India</h3>
+# 🛡️ Swathi Varre, CEH v12
+**Associate SOC Analyst | Cybersecurity Researcher | B.Tech CSE 2025**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/swathi-varre)
+[![Certification](https://img.shields.io/badge/Certification-CEH--v12-green?style=flat)](https://eccouncil.org)
+
+### 👨‍💻 Professional Profile
+I am a **Certified Ethical Hacker** with a deep focus on **Network Forensics** and **Automated Threat Detection**. I bridge the gap between software development and security operations, utilizing Machine Learning to identify sophisticated phishing vectors and performing deep-packet analysis to secure network perimeters.
+
+- 🔭 **Current Focus:** Building automated SOC playbooks and refining IDS signatures.
+- ⚡ **Key Achievement:** Developed an ML-based phishing detector with **92% F1-Score**.
+- 🛠️ **Environment:** Daily driver is **Kali Linux**; experienced in **SIEM** workflows.
 
 ---
 
-### 👩‍💻 About Me
-I am a **CEH Certified Cybersecurity Professional** and a **Computer Science and Engineering (CSE)** undergraduate, passionate about **Ethical Hacking**, **Penetration Testing**, and **Security Research**.  
-Currently, I’m focusing on **practical cybersecurity labs, CTFs, and real-world projects** to build advanced skills and contribute to a safer digital world.  
+### 🛠️ Technical Arsenal
 
-- 🔭 **Projects:**  
-   - Vehicle Detection & Speed Detection (YOLO + OpenCV)  
-   - Phishing Website Detection (SVM + LightGBM)  
-   - Ongoing: Security automation scripts & CTF writeups  
-
-- 🌱 **Learning:** Networking • Linux • SOC Analysis • Python for Security • Burp Suite • Wireshark  
-- 👯 **Open to Collaborations:** CTF teams, Ethical Hacking projects, and SOC automation tools  
-- 🤝 **Looking for Mentorship:** Intrusion Detection Systems (IDS) & Threat Hunting  
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Security Ops** | Wireshark, Nmap, Nessus, Metasploit, Burp Suite |
+| **Threat Intel** | VirusTotal, Cisco Talos, IBM X-Force, MX Toolbox |
+| **Data Science** | Python (Scikit-learn, LightGBM, SVM), NumPy, Pandas |
+| **Development** | C, C++, Java, Bash Scripting, Linux CLI |
 
 ---
 
-### 🏆 Achievements & Certifications
-- ✅ **Certified Ethical Hacker (CEH v12)**  
-- 🎓 **B.Tech CSE (2025)** – Brilliant Grammar School Educational Society’s Group of Institutions  
-- 🧠 Completed foundational modules in **Linux & Networking for Security**  
-
----
-
-### 🔗 Connect with Me
-- 📧 Email: [swathivarre03@gmail.com](mailto:swathivarre03@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/swathi-varre-53801a336](https://linkedin.com/in/swathi-varre-53801a336/)  
-- 💻 GitHub: [github.com/swathi-45](https://github.com/swathi-45)  
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1k3fRCDqEhVl7-j975a4x9O3_rY1xbmnr/view?usp=sharing)
-
----
-
-### 🛠️ Technologies & Tools  
-#### 👩‍💻 Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> [C](https://www.cprogramming.com/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> [C++](https://www.w3schools.com/cpp/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> [Python](https://www.python.org/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> [Java](https://www.java.com/)
-
-#### 🌐 Web Technologies  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> [HTML5](https://www.w3.org/html/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> [CSS3](https://www.w3schools.com/css/)
-
-
-#### 🔐 Cybersecurity Tools  
-- Kali Linux | Burp Suite | Wireshark | Metasploit  
-- Nmap | Scapy | SQLmap | Hydra  
-
----
-
-### 📚 Focus Areas
-- Ethical Hacking & Penetration Testing  
-- Vulnerability Assessment & Exploitation  
-- SOC Operations & Incident Response  
-- Network Security & IDS  
-- Capture The Flag (CTF) Challenges  
-
----
-
-### 🌱 Currently Exploring
-- Advanced Pentesting Techniques  
-- IDS/IPS & SIEM tools (Splunk, ELK)  
-- Web & Cloud Security  
-- Security in Distributed Systems  
-
----
-
-### 🌌 Fun Fact
-When I’m not analyzing packets or solving CTFs, I enjoy **stargazing ✨, drawing 🎨, and exploring podcasts 🎧** on technology & cybersecurity.  
-
----
-
-### 🤝 Let’s Collaborate!
-Always open to learning, collaborating, and solving challenges in cybersecurity. Whether it’s **ethical hacking, CTFs, or building secure tools** — let’s connect and make the internet safer together! 🔐  
-
-
+### 📂 Featured Cybersecurity Labs
+* **[ML-Phishing-Detection](link):** Machine Learning model for real-time URL analysis.
+* **[Network-Forensics-Reports](link):** A collection of PCAP analysis and Incident Response mockups.
+* **[CTF-Writeups](link):** Documented solutions for TryHackMe and HackTheBox challenges.
