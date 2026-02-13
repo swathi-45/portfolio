@@ -88,7 +88,7 @@ Structured writeups including:
 ---
 
 ## 📜 Certification
-- Certified Ethical Hacker (CEH v13)(https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing) – EC-Council
+- Certified Ethical Hacker [(CEH v13)]((https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing)) – EC-Council
 
 ---
 
@@ -103,6 +103,6 @@ Structured writeups including:
 
 ## 📫 Connect
 - 📧 Email: swathivarre03@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/swathi-varre-53801a336)
-- 💻 GitHub: ((url))
+- 🔗 LinkedIn:(https://www.linkedin.com/in/swathi-varre-53801a336)
+- 💻 GitHub:(https://github.com/swathi-45/portfolio)
 
